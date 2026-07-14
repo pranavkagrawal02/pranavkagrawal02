@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **pranavkumaragrawal02@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/pranav-k-agrawal/](https://www.linkedin.com/in/pranav-k-agrawal/)**
+- 🔗 Connect with me **[https://www.linkedin.com/in/pranav-k-agrawal/](https://www.linkedin.com/in/pranav-k-agrawal/)**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-k-agrawal/) 
